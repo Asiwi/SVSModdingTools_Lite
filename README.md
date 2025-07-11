@@ -16,6 +16,10 @@
 
 文中涉及的MagicaCloth 1代已经在unity商店中下架，你只能自己想办法获得它，碍于版权问题无法提供原文件
 
+
+***
+
+
 # SVSModdingTools_Lite
 
 Hello, congratulations on finding a new way to make HC&SVS Mods. This repository script is inspired by KKModdingTools. It uses the Unity version used to develop SVS to construct Mod files, which can minimize the workload of SB3UG debugging and production, and can easily create MagicaCloth physics.
